@@ -13,6 +13,8 @@ To install the app on your Android device, simply download the `.apk` file from 
 [Link for APK](https://github.com/IwanBelenko/MusicPlayerApp/blob/main/app-debug.apk)
 
 ## Source Code
+[If you want to build your own player, here are the sources](https://github.com/IwanBelenko/MusicPlayerApp/tree/main/src/main/java/ru/jw/musicplayerapp)
+
 
 
 
