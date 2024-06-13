@@ -1,11 +1,13 @@
 # MusicPlayerApp
 
-# Welcome to Our Music Player App Repository!
+# Welcome to my Music Player App Repository!
 
 ## Introduction
-Hello and thank you for visiting our repository! 
+Hello and thank you for visiting my repository! 
 
-[Screenshots of my minimalistic music player](https://github.com/IwanBelenko/MusicPlayerApp/blob/main/screenshot/photo_2024-06-13%2014.26.20.jpeg)
+[Screenshots 1 of my minimalistic music player](https://github.com/IwanBelenko/MusicPlayerApp/blob/main/screenshot/photo_2024-06-13%2014.26.20.jpeg)
+[Screenshots 2 of my minimalistic music player](https://github.com/IwanBelenko/MusicPlayerApp/blob/main/screenshot/photo_2024-06-13%2014.26.25.jpeg)
+[Screenshots 3 of my minimalistic music player](https://github.com/IwanBelenko/MusicPlayerApp/blob/main/screenshot/photo_2024-06-13%2014.26.29.jpeg)
 
 
 ## Installation
