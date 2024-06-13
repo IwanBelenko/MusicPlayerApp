@@ -1,6 +1,7 @@
 # MusicPlayerApp
 
 # Welcome to my Music Player App Repository!
+For Android version 12 and higher
 
 ## Introduction
 Hello and thank you for visiting my repository! 
